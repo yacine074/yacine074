@@ -25,7 +25,7 @@
     - <img title="SQL" align="left" alt="sql" width="26px" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" />
       <img title="XML" align="left" alt="xml" width="26px" src="https://s1.qwant.com/thumbr/0x380/a/c/1aa56529033661ef79454849927f9573767daddb3fd0b9f2cdf375593abbce/xml-icon.png?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fiynque%2Fflat-ios7-style-documents%2F512%2Fxml-icon.png&q=0&b=1&p=0&a=0" />
     
-  - #### Data Analysis & Machine Learning
+  - #### Machine Learning & Deep Learning
     - <img title="PyTorch" align="left" alt="torch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
       <img title="Tensor Flow" align="left" alt="Tonsorflow" width="26px" src="https://s1.qwant.com/thumbr/0x380/2/5/8ac02d09475618730fa459cbc881fe21c0a06b1f012f14514a72794bbfd304/1*iDQvKoz7gGHc6YXqvqWWZQ.png?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*iDQvKoz7gGHc6YXqvqWWZQ.png&q=0&b=1&p=0&a=0" />
       <img title="Keras" align="left" alt="keras" width="26px" src="https://1.bp.blogspot.com/--ziK8Qznt-k/YBPzt1G1EqI/AAAAAAAAPX4/3fCuo-QU4ywLhlVYBImkJfwNUFA3vPDigCLcBGAsYHQ/s1200/1200px-Keras_logo.svg.png" />
