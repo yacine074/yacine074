@@ -1,6 +1,6 @@
 ## 👨‍💼 __ABOUT ME__ !
 
-<img align="right" alt="github" width="100px" src="https://github.com/yacine074/yacine074/blob/main/Yacine_Photo.png" />
+<img align="right" alt="github" width="120px" src="https://github.com/yacine074/yacine074/blob/main/Yacine_Photo.png" />
 
 - 👋 ```Hello```, I’m __Yacine Ben Atia__
 - 🏫 I'm PhD student in AI at [ENSEA](https://www.ensea.fr/fr)
