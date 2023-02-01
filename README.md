@@ -3,9 +3,9 @@
 <img align="right" alt="github" width="150px" src="https://o-ikne.github.io/images/qrcode.png" />
 
 - 👋 ```Hello```, I’m __Yacine Ben Atia__
-- 🏫 I'm PhD student in AI at the [ENSEA](https://www.ensea.fr/fr)
-- 👀 I’m interested in Machine Learning, Deep Learning & Artificial Intelligence
-- To know more about me, check out my google sites 👉 or my CV below 👇
+- 🏫 I'm PhD student in AI at [ENSEA](https://www.ensea.fr/fr)
+- 👀 I’m interested in ML, DL & Artificial Intelligence
+- To know more about me, check out my [Google sites](https://sites.google.com/view/yacinebenatia/accueil) or my CV below 👇
 
 ## 📫 __CONTACT__
 
@@ -44,7 +44,8 @@
 
 
 ## 📝 __RESUME__
-- <a href="https://o-ikne.github.io/Resume/CV - IKNE OMAR (EN).pdf" target="_blank">CV (English version)</a>
+- <a href="https://github.com/yacine074/yacine074/blob/main/%5BEN%5D%20Yacine%20Ben%20atia%20CV%202023.pdf" target="_blank">CV (English version)</a>
+- <a href="https://github.com/yacine074/yacine074/blob/main/%5BEN%5D%20Yacine%20Ben%20atia%20CV%202023.pdf" target="_blank">CV (French version)</a>
 
 ##
 
@@ -53,4 +54,4 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Copyright © 2022 Omar Ikne | Github
+Copyright © 2023 Yacine Ben Atia | Github
