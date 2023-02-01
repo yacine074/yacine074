@@ -5,8 +5,7 @@
 - 👋 ```Hello```, I’m __Yacine Ben Atia__
 - 🏫 I'm PhD student in AI at the [ESIEE](https://www.ensea.fr/fr)
 - 👀 I’m interested in Machine Learning, Deep Learning & Artificial Intelligence
-- 💞️ I’m looking to collaborate on Machine Learning projects 
-- To know more about me, check out my portfolio 👉 or my CV below 👇
+- To know more about me, check out my google sites 👉 or my CV below 👇
 
 ## 📫 __CONTACT__
 
@@ -43,20 +42,6 @@
   - #### Operating Systems
     - <img title="Linux" align="left" alt="linux" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" />
       <img title="Windows" align="left" alt="windows" width="26px" src="https://www.shareicon.net/data/512x512/2015/09/16/101922_windows_512x512.png" /> 
-
-
-## 📈 __STATS__
-  - General Stats:
-  
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=o-ikne&&show_icons=true&count_private=true&theme=merko" />
-
-  - Most used Languages:
-  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ikne&theme=merko&layout=compact" />
-
-  - Visitor Count: 
-  
-    ![Visitor Count](https://profile-counter.glitch.me/{o-ikne}/count.svg)
 
 
 ## 📝 __RESUME__
