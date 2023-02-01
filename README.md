@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm I'm Yacine BENATIA a PhD student in ETIS laboratory and IMT Nord Europe, France working on AI for wireless communications. He received an M.Sc. in Computer Science from Mohamed Khider Biskra University, Algeria in 2019 and an M.Sc. in Image and Signal Processing from Aix-Marseille University, France in 2020.</h1>
+<h3 align="left">Bio:</h3>
+<h3 align="center">I'm Yacine BENATIA a PhD student in ETIS laboratory and IMT Nord Europe, France working on AI for wireless communications. He received an M.Sc. in Computer Science from Mohamed Khider Biskra University, Algeria in 2019 and an M.Sc. in Image and Signal Processing from Aix-Marseille University, France in 2020.</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yacine-ben-atia-27697283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yacine-ben-atia-27697283" height="30" width="40" /></a>
