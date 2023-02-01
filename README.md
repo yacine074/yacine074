@@ -2,15 +2,15 @@
 
 <img align="right" alt="github" width="150px" src="https://o-ikne.github.io/images/qrcode.png" />
 
-- 👋 ```Hello, World !```, I’m __IKNE Omar__
-- 🏫 I'm currently a student in data science at the [University of Lille](https://www.univ-lille.fr/)
+- 👋 ```Hello```, I’m __Yacine Ben Atia__
+- 🏫 I'm PhD student in AI at the [ESIEE](https://www.ensea.fr/fr)
 - 👀 I’m interested in Machine Learning, Deep Learning & Artificial Intelligence
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - To know more about me, check out my portfolio 👉 or my CV below 👇
 
 ## 📫 __CONTACT__
 
-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/omar-ikne-144319183) [linkedin.com/in/omar-ikne](http://linkedin.com/in/omar-ikne-144319183)
+- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/omar-ikne-144319183) [https://www.linkedin.com/in/yacine-ben-atia-27697283/](https://www.linkedin.com/in/yacine-ben-atia-27697283/)
 
 - [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://o-ikne.github.io)[https://o-ikne.github.io](https://o-ikne.github.io)
 
