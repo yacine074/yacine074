@@ -11,19 +11,18 @@
 
 - [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/omar-ikne-144319183) [https://www.linkedin.com/in/yacine-ben-atia-27697283/](https://www.linkedin.com/in/yacine-ben-atia-27697283/)
 
-- [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://o-ikne.github.io)[https://o-ikne.github.io](https://o-ikne.github.io)
+- [<img align="left" alt="github" width="26px" src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" />](https://github.com/yacine074)[https://github.com/yacine074](https://github.com/yacine074)
 
 
 ## 👩‍💻 __IT SKILLS__
   - #### Languages 
     - <img title="Python" align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
-      <img title="R" align="left" alt="R" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F55f5076aa28f590c7576fd3c53bbdb5c17352a18%2Ff2970%2Fimg%2Frstudio.png&f=1&nofb=1" />
+      <img title="C" align="left" alt="C" width="26px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" />
       <img title="Matlab" align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
-      <img title="JavaScript" align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
+      <img title="Java" align="left" alt="JS" width="26px" src="https://futurelinx.fr/wp-content/uploads/2020/01/java.jpg" />
     
   - #### Databases 
     - <img title="SQL" align="left" alt="sql" width="26px" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" />
-      <img title="Cypher" align="left" alt="cypher" width="26px" src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png" />
       <img title="XML" align="left" alt="xml" width="26px" src="https://s1.qwant.com/thumbr/0x380/a/c/1aa56529033661ef79454849927f9573767daddb3fd0b9f2cdf375593abbce/xml-icon.png?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fiynque%2Fflat-ios7-style-documents%2F512%2Fxml-icon.png&q=0&b=1&p=0&a=0" />
     
   - #### Data Analysis & Machine Learning
